@@ -1,0 +1,4 @@
+Libraryproject/__pycache__/
+lib_app/__pycache__/
+lib_app/migrations/__pycache__/
+lib_app/views/__pycache__/
