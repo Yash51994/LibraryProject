@@ -17,5 +17,3 @@ class Bform(forms.ModelForm):
         fields = "__all__"
         # fields = ('name', 'price', 'qty')  # -- list or tuple -- both accepted
 
-
-
